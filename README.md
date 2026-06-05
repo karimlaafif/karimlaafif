@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KARIM LAAFIF</h1>
-<h3 align="center">A IT specialist | Data Science | ML | Devops | Data Analyses | Hardware fixing and upgrading</h3>
+<h3 align="center"> Data Engineering | Data Science | ML | Devops | Data Analyses | Hardware fixing and upgrading</h3>
 
 <img align="right" alt="Coding" height ="850" width="1000" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
